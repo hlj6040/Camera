@@ -2,34 +2,34 @@
 	"sources" : 
 	[
 		{
-			"file" : "/project/build/CMakeFiles/bootloader"
+			"file" : "F:/Camera/build/CMakeFiles/bootloader"
 		},
 		{
-			"file" : "/project/build/CMakeFiles/bootloader.rule"
+			"file" : "F:/Camera/build/CMakeFiles/bootloader.rule"
 		},
 		{
-			"file" : "/project/build/CMakeFiles/bootloader-complete.rule"
+			"file" : "F:/Camera/build/CMakeFiles/bootloader-complete.rule"
 		},
 		{
-			"file" : "/project/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+			"file" : "F:/Camera/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
 		},
 		{
-			"file" : "/project/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+			"file" : "F:/Camera/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
 		},
 		{
-			"file" : "/project/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+			"file" : "F:/Camera/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
 		},
 		{
-			"file" : "/project/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+			"file" : "F:/Camera/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
 		},
 		{
-			"file" : "/project/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+			"file" : "F:/Camera/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
 		},
 		{
-			"file" : "/project/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+			"file" : "F:/Camera/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
 		},
 		{
-			"file" : "/project/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+			"file" : "F:/Camera/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
 		}
 	],
 	"target" : 

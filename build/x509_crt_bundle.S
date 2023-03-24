@@ -1,4 +1,4 @@
-/* * Data converted from /project/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from F:/Camera/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 .section .rodata.embedded
