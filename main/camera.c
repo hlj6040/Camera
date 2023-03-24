@@ -17,12 +17,13 @@
 #include "lwip/err.h"
 #include "lwip/sys.h"
 
+#include "tcpServer.h"
 /* The examples use WiFi configuration that you can set via project configuration menu
    If you'd rather not, just change the below entries to strings with
    the config you want - ie #define EXAMPLE_WIFI_SSID "mywifissid"
 */
-#define EXAMPLE_ESP_WIFI_SSID      "FUDA"
-#define EXAMPLE_ESP_WIFI_PASS      "Delta1234567890!"
+#define EXAMPLE_ESP_WIFI_SSID      "Ayumi"
+#define EXAMPLE_ESP_WIFI_PASS      "ayumi123"
 #define EXAMPLE_ESP_MAXIMUM_RETRY  5
 
 #if CONFIG_ESP_WPA3_SAE_PWE_HUNT_AND_PECK
@@ -167,4 +168,5 @@ void app_main(void)
 
     ESP_LOGI(TAG, "ESP_WIFI_MODE_STA");
     wifi_init_sta();
+    tcpServerStart();
 }
